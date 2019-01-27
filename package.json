@@ -1,0 +1,12 @@
+{
+  "name": "catapult-loadtest",
+  "version": "0.0.1",
+  "description": "for catapult loadtest",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "loadtest": "^3.0.4",
+    "nem2-sdk": "^0.10.1"
+  }
+}
